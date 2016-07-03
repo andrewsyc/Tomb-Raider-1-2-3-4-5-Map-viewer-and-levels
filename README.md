@@ -18,6 +18,7 @@
 
 ### Credits
 * Levels extracted from Tomb Raider 1 demo from http://www.bestoldgames.net/tomb-raider
-* Tomb Raider Viewer from http://www.aspidetr.com/tools/3d-tomb-raider-viewer/ version 1.1
+* Tomb Raider Viewer from http://www.geocities.com/jimmyvalavanis/applications/tombviewer.html version 1.1
 
 ### ENJOY!!!
+### Thanks Jim Valavanis for writing this awesome application!
