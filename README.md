@@ -6,18 +6,21 @@
 ### Instructions
 - View readme.txt for instruction on how to move.
 - Load the .PHD file extensions from the Tomb-Raider-1 folder
+- .tr2 for Tomb Raider 2 and 3
+- .tr4 for Tomb Raider 4, Revalations
+- .trc for Tomb Raider 5, chronicles
 
 ### Windows based OS
 
 * If you run into issues try running in compatibility mode.
-* I ran this on windows using parallels on a mac.
+* I ran this on windows 10 using parallels on a mac.
 
 ### Misc
 
 - Screenshots included of what to expect. 
 
 ### Credits
-* Levels extracted from Tomb Raider 1 demo from http://www.bestoldgames.net/tomb-raider
+* Levels extracted from Misc sources
 * Tomb Raider Viewer from http://www.geocities.ws/jimmyvalavanis/applications/tombviewer.html version 1.1
 
 ### ENJOY!!!
