@@ -1,7 +1,8 @@
 # Tomb-Raider-1-2-3-4-Map-viewer-and-levels
 
 * Only Tested on Tomb Raider 1 Maps
-* Tomb Viewer is over 12 years old, it occasionally breaks.
+* Tomb Viewer is over 12 years old, seems to work ok mostly, just run it in the lowest mode and on fullscreen. 
+* Tomb Viewer uses '+' and '-' keys to move down (usally on the right side with the numpad keys)
 
 ### Instructions
 - View readme.txt for instruction on how to move.
