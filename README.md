@@ -2,7 +2,7 @@
 
 * Only Tested on Tomb Raider 1 Maps
 * Tomb Viewer is over 12 years old, seems to work ok mostly, just run it in the lowest mode and on fullscreen. 
-* Tomb Viewer uses '+' and '-' keys to move down (usally on the right side with the numpad keys)
+* Tomb Viewer uses '+' and '-' keys to move up or down (usally on the right side with the numpad keys), directional arrows to move around horizonatally.
 
 ### Instructions
 - View readme.txt for instruction on how to move.
