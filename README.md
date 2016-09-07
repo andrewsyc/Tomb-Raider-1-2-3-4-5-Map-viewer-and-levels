@@ -19,6 +19,8 @@
 ### Misc
 
 - Screenshots included of what to expect. 
+- Keep in mind that these are all the PC game levels (usually found in the DATA folder of the extracted ISO).
+- Playstation discs format levels will not work with this program, at least I had no luck.
 
 ### Credits
 * Levels extracted from Misc sources on http://www.theisozone.com/
