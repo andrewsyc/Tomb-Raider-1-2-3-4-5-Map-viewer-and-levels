@@ -1,7 +1,7 @@
 # Tomb-Raider-1-2-3-4-Map-viewer-and-levels
 
-* Only Tested on Tomb Raider 1 Maps
-* Tomb Viewer is over 12 years old, seems to work ok mostly, just run it in the lowest mode and on fullscreen. 
+* Tested and working for all maps in repository.
+* Tomb Viewer is over 12 years old, seems to work fine on Windows 10, just use in full screen mode. 
 * Tomb Viewer uses '+' and '-' keys to move up or down (usally on the right side with the numpad keys), directional arrows to move around horizonatally.
 
 ### Instructions
@@ -21,7 +21,7 @@
 - Screenshots included of what to expect. 
 
 ### Credits
-* Levels extracted from Misc sources
+* Levels extracted from Misc sources on http://www.theisozone.com/
 * Tomb Raider Viewer from http://www.geocities.ws/jimmyvalavanis/applications/tombviewer.html version 1.1
 
 ### ENJOY!!!
