@@ -13,7 +13,7 @@
 
 ### How to download as a Zip
 - I understand many people are simply coming here that want to play individual levels as opposed to doing anything with code and may not be familiar with Github. This image explains how to download a zip of all the levels on this repo. It's over 300MB. 
-![alt text](https://imgur.com/bTzMChW)
+![Screenshot]\(https://imgur.com/bTzMChW) 
 
 ### Windows based OS
 
