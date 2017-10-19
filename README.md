@@ -16,6 +16,12 @@
 
 ![How to download](/images/download.png)
 
+### Play Tomb Raider 1 PHD or PSX files on OpenLara
+- An interesting project called OpenLara has been created by a software engineer titled OpenLara, Google it :) 
+- The project has come a long way and is very faithful to the original physics. 
+
+![How to Play](/images/openlara.png)
+
 
 ### Windows based OS
 
